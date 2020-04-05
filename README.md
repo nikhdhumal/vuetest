@@ -1,5 +1,9 @@
 # vuetest
 
+## Live Demo
+
+[Click Here for live demo](https://nikhdhumal.github.io/vuetest/)
+
 ## Project setup
 ```
 yarn install
