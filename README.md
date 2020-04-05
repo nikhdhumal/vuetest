@@ -1,5 +1,12 @@
 # vuetest
 
+This project consists following functionality:
+- Basic VueJS setup
+- Bootstrap integration
+- Axios integration
+- Fetch and show the user list
+- Show loading modal while fetching user list from actual server
+
 ## Live Demo
 
 [Click Here for live demo](https://nikhdhumal.github.io/vuetest/)
